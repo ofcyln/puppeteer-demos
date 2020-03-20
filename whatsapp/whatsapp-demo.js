@@ -9,7 +9,7 @@ try {
   const page = await browser.newPage();
 
   try {
-    await sendMessageToGroup(page, getTodaysMessage(), 'Bizimkiler', true);
+    await sendMessageToGroup(page, getTodaysMessage(), 'Bizimkiler', false);
   } finally {
     await page.close();
     await browser.close();
