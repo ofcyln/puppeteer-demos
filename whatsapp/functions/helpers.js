@@ -42,9 +42,9 @@ const getTodaysMessage = () => {
   const awesomeWishes = ['güzel', 'şahane', 'keyifli', 'huzurlu', 'harika'];
   const weekendWishes = [ ...awesomeWishes, 'eğlenceli', 'bol dinlenmeli', 'bol gezmeli'];
   const weekDayWishes = [ ...awesomeWishes, 'bereketli', 'başarılı', 'verimli', 'sağlıklı'];
-  const kisses = ['öpüyorum', 'öpüldünüz', 'öpüyore', 'öptüm'];
-  const hails = ['Gunaydın', 'Gününüz aydın', 'Günaydınlar'];
-  const address = ['sevgili ailem', 'canım ailem', 'ceylanos', 'canlar'];
+  const kisses = ['öpüyoryo', 'öpüldünz', 'öpüyore', 'öpdüm'];
+  const hails = ['Gunaydın', 'Günaydıns', 'Günaydınlar'];
+  const address = ['sevgili ailem', 'ailem', 'ceylans', 'canlar'];
   const who = ['', ' herkese'];
   const comma = ['', ','];
 
